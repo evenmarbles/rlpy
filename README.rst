@@ -16,7 +16,8 @@ rlpy
 Reinforcement Learning with Python
 
 * Free software: ISC license
-* Documentation: .. https://rlpy.readthedocs.org.
+* Documentation:
+.. https://rlpy.readthedocs.org.
 
 Features
 --------
